@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @jonezy35
-- 👀 I’m interested in Cloud Security
